@@ -2,4 +2,4 @@
 Я заметил, что при нахождении в боковых частях. иногда игра вылетает, я не знаю в чём проблема.
 А так, по моим тестам всё работало, если найдешь баги - напиши мне, постараюсь исправить♥
 
-[Ссылка на презентацию](https://docs.google.com/presentation/d/1qgNWJFhsj8xcOlrVvMs617vY47E4WYNYOpvEErXZA-4/edit?usp=sharing)
+Ссылка на презентацию - https://docs.google.com/presentation/d/1qgNWJFhsj8xcOlrVvMs617vY47E4WYNYOpvEErXZA-4/edit?usp=sharing
